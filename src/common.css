@@ -1,0 +1,96 @@
+.font1 {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.font2 {
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.font3 {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.font4 {
+  font-size: 15px;
+  line-height: 22px;
+}
+
+.font5 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font6 {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.font7 {
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.bold-500 {
+  font-weight: 500;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.br-4 {
+  border-radius: 4px;
+}
+
+.border-light {
+  border: 1px solid var(--Black-85, #d9d9d9);
+}
+
+/* COLORS  */
+
+.box-shadow {
+  box-shadow: 0px 2px 6px 0px rgba(26, 24, 30, 0.04);
+}
+
+.dark-blue {
+  color: #1e2640;
+}
+
+.medium-blue {
+  color: #353c53;
+}
+
+.light-gray {
+  color: #fafafa;
+}
+
+.dark-gray {
+  color: #1a181e;
+}
+
+.light-silver {
+  color: #d9d9d9;
+}
+
+.white {
+  color: #fff;
+}
+
+.dark-charcoal {
+  color: #4d4d4d;
+}
+
+.blue {
+  color: #146eb4;
+}
+
+.bg-white {
+  color: rgba(255, 255, 255, 0.1);
+}

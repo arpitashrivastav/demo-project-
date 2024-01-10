@@ -1,0 +1,2402 @@
+[
+  {
+    "orderId": 985648,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8632.73,
+    "transactionFees": 146.76
+  },
+  {
+    "orderId": 193827,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6593.31,
+    "transactionFees": 112.09
+  },
+  {
+    "orderId": 947962,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8161.95,
+    "transactionFees": 138.75
+  },
+  {
+    "orderId": 643717,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3279.03,
+    "transactionFees": 55.74
+  },
+  {
+    "orderId": 986062,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5876.58,
+    "transactionFees": 99.9
+  },
+  {
+    "orderId": 627045,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9479.16,
+    "transactionFees": 161.15
+  },
+  {
+    "orderId": 413576,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6207.58,
+    "transactionFees": 105.53
+  },
+  {
+    "orderId": 934089,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9351.45,
+    "transactionFees": 158.97
+  },
+  {
+    "orderId": 941773,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3485.86,
+    "transactionFees": 59.26
+  },
+  {
+    "orderId": 267570,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6562.24,
+    "transactionFees": 111.56
+  },
+  {
+    "orderId": 766236,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3842.75,
+    "transactionFees": 65.33
+  },
+  {
+    "orderId": 324854,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1180.18,
+    "transactionFees": 20.06
+  },
+  {
+    "orderId": 531651,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6203.65,
+    "transactionFees": 105.46
+  },
+  {
+    "orderId": 827952,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2901.71,
+    "transactionFees": 49.33
+  },
+  {
+    "orderId": 794257,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2889.58,
+    "transactionFees": 49.12
+  },
+  {
+    "orderId": 779604,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7250.06,
+    "transactionFees": 123.25
+  },
+  {
+    "orderId": 875562,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7568.28,
+    "transactionFees": 128.66
+  },
+  {
+    "orderId": 695062,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6271.18,
+    "transactionFees": 106.61
+  },
+  {
+    "orderId": 303998,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1912.89,
+    "transactionFees": 32.52
+  },
+  {
+    "orderId": 861583,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8077.33,
+    "transactionFees": 137.31
+  },
+  {
+    "orderId": 393457,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8215.3,
+    "transactionFees": 139.66
+  },
+  {
+    "orderId": 235845,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8675.04,
+    "transactionFees": 147.48
+  },
+  {
+    "orderId": 839728,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9625.16,
+    "transactionFees": 163.63
+  },
+  {
+    "orderId": 363812,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3649.27,
+    "transactionFees": 62.04
+  },
+  {
+    "orderId": 938191,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4278.82,
+    "transactionFees": 72.74
+  },
+  {
+    "orderId": 970423,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2178.34,
+    "transactionFees": 37.03
+  },
+  {
+    "orderId": 964059,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1262.83,
+    "transactionFees": 21.47
+  },
+  {
+    "orderId": 979099,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6014.31,
+    "transactionFees": 102.24
+  },
+  {
+    "orderId": 978092,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1260.33,
+    "transactionFees": 21.43
+  },
+  {
+    "orderId": 384127,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4252.53,
+    "transactionFees": 72.29
+  },
+  {
+    "orderId": 434807,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4292.47,
+    "transactionFees": 72.97
+  },
+  {
+    "orderId": 991821,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1378.14,
+    "transactionFees": 23.43
+  },
+  {
+    "orderId": 306866,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8758.9,
+    "transactionFees": 148.9
+  },
+  {
+    "orderId": 684306,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1860.79,
+    "transactionFees": 31.63
+  },
+  {
+    "orderId": 363272,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4590,
+    "transactionFees": 78.03
+  },
+  {
+    "orderId": 545439,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9859.98,
+    "transactionFees": 167.62
+  },
+  {
+    "orderId": 297831,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2655.3,
+    "transactionFees": 45.14
+  },
+  {
+    "orderId": 684255,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2473.71,
+    "transactionFees": 42.05
+  },
+  {
+    "orderId": 528012,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7138.55,
+    "transactionFees": 121.36
+  },
+  {
+    "orderId": 625092,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6305.73,
+    "transactionFees": 107.2
+  },
+  {
+    "orderId": 507162,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2962.57,
+    "transactionFees": 50.36
+  },
+  {
+    "orderId": 607913,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4350.55,
+    "transactionFees": 73.96
+  },
+  {
+    "orderId": 412930,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8493.94,
+    "transactionFees": 144.4
+  },
+  {
+    "orderId": 323092,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4320.96,
+    "transactionFees": 73.46
+  },
+  {
+    "orderId": 334638,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4221.77,
+    "transactionFees": 71.77
+  },
+  {
+    "orderId": 608204,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1930.44,
+    "transactionFees": 32.82
+  },
+  {
+    "orderId": 972759,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3917.8,
+    "transactionFees": 66.6
+  },
+  {
+    "orderId": 468264,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5058.72,
+    "transactionFees": 86
+  },
+  {
+    "orderId": 524717,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6065.56,
+    "transactionFees": 103.11
+  },
+  {
+    "orderId": 340138,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7822.94,
+    "transactionFees": 132.99
+  },
+  {
+    "orderId": 698871,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2622.18,
+    "transactionFees": 44.58
+  },
+  {
+    "orderId": 774369,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2004.56,
+    "transactionFees": 34.08
+  },
+  {
+    "orderId": 196307,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5170.92,
+    "transactionFees": 87.91
+  },
+  {
+    "orderId": 371739,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8908.14,
+    "transactionFees": 151.44
+  },
+  {
+    "orderId": 850531,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1008.36,
+    "transactionFees": 17.14
+  },
+  {
+    "orderId": 463276,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2606.06,
+    "transactionFees": 44.3
+  },
+  {
+    "orderId": 377967,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7521.25,
+    "transactionFees": 127.86
+  },
+  {
+    "orderId": 352572,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2413.66,
+    "transactionFees": 41.03
+  },
+  {
+    "orderId": 992100,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6750.32,
+    "transactionFees": 114.76
+  },
+  {
+    "orderId": 576485,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1961.19,
+    "transactionFees": 33.34
+  },
+  {
+    "orderId": 722558,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3593.53,
+    "transactionFees": 61.09
+  },
+  {
+    "orderId": 465839,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8790.94,
+    "transactionFees": 149.45
+  },
+  {
+    "orderId": 122989,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1285.31,
+    "transactionFees": 21.85
+  },
+  {
+    "orderId": 738136,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8612.8,
+    "transactionFees": 146.42
+  },
+  {
+    "orderId": 844585,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4155.57,
+    "transactionFees": 70.64
+  },
+  {
+    "orderId": 859206,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5332.18,
+    "transactionFees": 90.65
+  },
+  {
+    "orderId": 181220,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3610.3,
+    "transactionFees": 61.38
+  },
+  {
+    "orderId": 510500,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8049.58,
+    "transactionFees": 136.84
+  },
+  {
+    "orderId": 145498,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3132.75,
+    "transactionFees": 53.26
+  },
+  {
+    "orderId": 999432,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4261.88,
+    "transactionFees": 72.45
+  },
+  {
+    "orderId": 611545,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9904.89,
+    "transactionFees": 168.38
+  },
+  {
+    "orderId": 746147,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2091.61,
+    "transactionFees": 35.56
+  },
+  {
+    "orderId": 331112,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1303.2,
+    "transactionFees": 22.15
+  },
+  {
+    "orderId": 944409,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2161.4,
+    "transactionFees": 36.74
+  },
+  {
+    "orderId": 887144,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7491.56,
+    "transactionFees": 127.36
+  },
+  {
+    "orderId": 178225,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5642.31,
+    "transactionFees": 95.92
+  },
+  {
+    "orderId": 488368,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7319.23,
+    "transactionFees": 124.43
+  },
+  {
+    "orderId": 632314,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8495.57,
+    "transactionFees": 144.42
+  },
+  {
+    "orderId": 718355,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9285.15,
+    "transactionFees": 157.85
+  },
+  {
+    "orderId": 843945,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5915.19,
+    "transactionFees": 100.56
+  },
+  {
+    "orderId": 821311,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3205.61,
+    "transactionFees": 54.5
+  },
+  {
+    "orderId": 360204,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7480.72,
+    "transactionFees": 127.17
+  },
+  {
+    "orderId": 724919,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7274.15,
+    "transactionFees": 123.66
+  },
+  {
+    "orderId": 404634,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3387.45,
+    "transactionFees": 57.59
+  },
+  {
+    "orderId": 201014,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4962.11,
+    "transactionFees": 84.36
+  },
+  {
+    "orderId": 201478,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4536.57,
+    "transactionFees": 77.12
+  },
+  {
+    "orderId": 747347,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1636.51,
+    "transactionFees": 27.82
+  },
+  {
+    "orderId": 913769,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5924.67,
+    "transactionFees": 100.72
+  },
+  {
+    "orderId": 935776,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5811.83,
+    "transactionFees": 98.8
+  },
+  {
+    "orderId": 960222,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2961.76,
+    "transactionFees": 50.35
+  },
+  {
+    "orderId": 361682,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8191.32,
+    "transactionFees": 139.25
+  },
+  {
+    "orderId": 852504,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4999.14,
+    "transactionFees": 84.99
+  },
+  {
+    "orderId": 901201,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4555.83,
+    "transactionFees": 77.45
+  },
+  {
+    "orderId": 803369,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4540.39,
+    "transactionFees": 77.19
+  },
+  {
+    "orderId": 318740,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8364.32,
+    "transactionFees": 142.19
+  },
+  {
+    "orderId": 355780,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3069.42,
+    "transactionFees": 52.18
+  },
+  {
+    "orderId": 735331,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1050.26,
+    "transactionFees": 17.85
+  },
+  {
+    "orderId": 842443,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6016.13,
+    "transactionFees": 102.27
+  },
+  {
+    "orderId": 660959,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4601.15,
+    "transactionFees": 78.22
+  },
+  {
+    "orderId": 772043,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2615.79,
+    "transactionFees": 44.47
+  },
+  {
+    "orderId": 254337,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8286.5,
+    "transactionFees": 140.87
+  },
+  {
+    "orderId": 455400,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4603.97,
+    "transactionFees": 78.27
+  },
+  {
+    "orderId": 706255,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8739.75,
+    "transactionFees": 148.58
+  },
+  {
+    "orderId": 368529,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5666.94,
+    "transactionFees": 96.34
+  },
+  {
+    "orderId": 530787,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9785.34,
+    "transactionFees": 166.35
+  },
+  {
+    "orderId": 687871,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8298.4,
+    "transactionFees": 141.07
+  },
+  {
+    "orderId": 782308,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5372.06,
+    "transactionFees": 91.33
+  },
+  {
+    "orderId": 947990,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5831.19,
+    "transactionFees": 99.13
+  },
+  {
+    "orderId": 561457,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5338.75,
+    "transactionFees": 90.76
+  },
+  {
+    "orderId": 298532,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7922.08,
+    "transactionFees": 134.68
+  },
+  {
+    "orderId": 489470,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6093.65,
+    "transactionFees": 103.59
+  },
+  {
+    "orderId": 246882,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6374.62,
+    "transactionFees": 108.37
+  },
+  {
+    "orderId": 664175,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2609.47,
+    "transactionFees": 44.36
+  },
+  {
+    "orderId": 202171,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6053.59,
+    "transactionFees": 102.91
+  },
+  {
+    "orderId": 235445,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3736.74,
+    "transactionFees": 63.52
+  },
+  {
+    "orderId": 588295,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3308.96,
+    "transactionFees": 56.25
+  },
+  {
+    "orderId": 804461,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5951.92,
+    "transactionFees": 101.18
+  },
+  {
+    "orderId": 305456,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5588.96,
+    "transactionFees": 95.01
+  },
+  {
+    "orderId": 906633,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8381.97,
+    "transactionFees": 142.49
+  },
+  {
+    "orderId": 518682,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1994.88,
+    "transactionFees": 33.91
+  },
+  {
+    "orderId": 703065,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4124.98,
+    "transactionFees": 70.12
+  },
+  {
+    "orderId": 533261,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5817.2,
+    "transactionFees": 98.89
+  },
+  {
+    "orderId": 524878,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7825.06,
+    "transactionFees": 133.03
+  },
+  {
+    "orderId": 940418,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6181.3,
+    "transactionFees": 105.08
+  },
+  {
+    "orderId": 428724,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1779.1,
+    "transactionFees": 30.24
+  },
+  {
+    "orderId": 181096,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6622.43,
+    "transactionFees": 112.58
+  },
+  {
+    "orderId": 599421,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6619.01,
+    "transactionFees": 112.52
+  },
+  {
+    "orderId": 661349,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8061.28,
+    "transactionFees": 137.04
+  },
+  {
+    "orderId": 279259,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1633.32,
+    "transactionFees": 27.77
+  },
+  {
+    "orderId": 173564,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2925.25,
+    "transactionFees": 49.73
+  },
+  {
+    "orderId": 317875,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5333.85,
+    "transactionFees": 90.68
+  },
+  {
+    "orderId": 789446,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9130.22,
+    "transactionFees": 155.21
+  },
+  {
+    "orderId": 205004,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4319.22,
+    "transactionFees": 73.43
+  },
+  {
+    "orderId": 608407,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2039.93,
+    "transactionFees": 34.68
+  },
+  {
+    "orderId": 723052,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8153.98,
+    "transactionFees": 138.62
+  },
+  {
+    "orderId": 669615,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9684.88,
+    "transactionFees": 164.64
+  },
+  {
+    "orderId": 538109,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4572.53,
+    "transactionFees": 77.73
+  },
+  {
+    "orderId": 450950,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5356.68,
+    "transactionFees": 91.06
+  },
+  {
+    "orderId": 451968,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2785.34,
+    "transactionFees": 47.35
+  },
+  {
+    "orderId": 758979,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7430.85,
+    "transactionFees": 126.32
+  },
+  {
+    "orderId": 986576,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7238.11,
+    "transactionFees": 123.05
+  },
+  {
+    "orderId": 586124,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5494.07,
+    "transactionFees": 93.4
+  },
+  {
+    "orderId": 441622,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6874.6,
+    "transactionFees": 116.87
+  },
+  {
+    "orderId": 363475,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1077.33,
+    "transactionFees": 18.31
+  },
+  {
+    "orderId": 916115,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2694.18,
+    "transactionFees": 45.8
+  },
+  {
+    "orderId": 558449,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7169.97,
+    "transactionFees": 121.89
+  },
+  {
+    "orderId": 309839,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8289.05,
+    "transactionFees": 140.91
+  },
+  {
+    "orderId": 968317,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2871.8,
+    "transactionFees": 48.82
+  },
+  {
+    "orderId": 633867,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6573.06,
+    "transactionFees": 111.74
+  },
+  {
+    "orderId": 688264,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4831.89,
+    "transactionFees": 82.14
+  },
+  {
+    "orderId": 652674,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8376.75,
+    "transactionFees": 142.4
+  },
+  {
+    "orderId": 820899,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2970.32,
+    "transactionFees": 50.5
+  },
+  {
+    "orderId": 741313,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1939.85,
+    "transactionFees": 32.98
+  },
+  {
+    "orderId": 388723,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2892.73,
+    "transactionFees": 49.18
+  },
+  {
+    "orderId": 844764,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7237.82,
+    "transactionFees": 123.04
+  },
+  {
+    "orderId": 125002,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7116.27,
+    "transactionFees": 120.98
+  },
+  {
+    "orderId": 938102,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5774.22,
+    "transactionFees": 98.16
+  },
+  {
+    "orderId": 847829,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9535.11,
+    "transactionFees": 162.1
+  },
+  {
+    "orderId": 496147,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2232.22,
+    "transactionFees": 37.95
+  },
+  {
+    "orderId": 127430,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3269.74,
+    "transactionFees": 55.59
+  },
+  {
+    "orderId": 716043,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2155.09,
+    "transactionFees": 36.64
+  },
+  {
+    "orderId": 377797,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9135.45,
+    "transactionFees": 155.3
+  },
+  {
+    "orderId": 209557,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9536.26,
+    "transactionFees": 162.12
+  },
+  {
+    "orderId": 557384,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9161.24,
+    "transactionFees": 155.74
+  },
+  {
+    "orderId": 941179,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2371.31,
+    "transactionFees": 40.31
+  },
+  {
+    "orderId": 809284,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2638.38,
+    "transactionFees": 44.85
+  },
+  {
+    "orderId": 765911,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4226.58,
+    "transactionFees": 71.85
+  },
+  {
+    "orderId": 287579,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5968.34,
+    "transactionFees": 101.46
+  },
+  {
+    "orderId": 475052,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3129.44,
+    "transactionFees": 53.2
+  },
+  {
+    "orderId": 294776,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4230.68,
+    "transactionFees": 71.92
+  },
+  {
+    "orderId": 327971,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7809.93,
+    "transactionFees": 132.77
+  },
+  {
+    "orderId": 794455,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7145.91,
+    "transactionFees": 121.48
+  },
+  {
+    "orderId": 714008,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4611.86,
+    "transactionFees": 78.4
+  },
+  {
+    "orderId": 875684,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6540.57,
+    "transactionFees": 111.19
+  },
+  {
+    "orderId": 104365,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6012.08,
+    "transactionFees": 102.21
+  },
+  {
+    "orderId": 234711,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7230.95,
+    "transactionFees": 122.93
+  },
+  {
+    "orderId": 887632,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8004.42,
+    "transactionFees": 136.08
+  },
+  {
+    "orderId": 163878,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9573.56,
+    "transactionFees": 162.75
+  },
+  {
+    "orderId": 893366,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9471.97,
+    "transactionFees": 161.02
+  },
+  {
+    "orderId": 884670,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3390.62,
+    "transactionFees": 57.64
+  },
+  {
+    "orderId": 920234,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7142.31,
+    "transactionFees": 121.42
+  },
+  {
+    "orderId": 998962,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3786.85,
+    "transactionFees": 64.38
+  },
+  {
+    "orderId": 741826,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6828.17,
+    "transactionFees": 116.08
+  },
+  {
+    "orderId": 507608,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6977.41,
+    "transactionFees": 118.62
+  },
+  {
+    "orderId": 645196,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7024.28,
+    "transactionFees": 119.41
+  },
+  {
+    "orderId": 656079,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1690.51,
+    "transactionFees": 28.74
+  },
+  {
+    "orderId": 879226,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7862.59,
+    "transactionFees": 133.66
+  },
+  {
+    "orderId": 886512,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3995.88,
+    "transactionFees": 67.93
+  },
+  {
+    "orderId": 332953,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5738.95,
+    "transactionFees": 97.56
+  },
+  {
+    "orderId": 831701,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5469.32,
+    "transactionFees": 92.98
+  },
+  {
+    "orderId": 580909,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8032.69,
+    "transactionFees": 136.56
+  },
+  {
+    "orderId": 419915,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1307.96,
+    "transactionFees": 22.24
+  },
+  {
+    "orderId": 284794,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9995.27,
+    "transactionFees": 169.92
+  },
+  {
+    "orderId": 279833,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2235.35,
+    "transactionFees": 38
+  },
+  {
+    "orderId": 431782,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2227.02,
+    "transactionFees": 37.86
+  },
+  {
+    "orderId": 584592,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5025.38,
+    "transactionFees": 85.43
+  },
+  {
+    "orderId": 120278,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9270.11,
+    "transactionFees": 157.59
+  },
+  {
+    "orderId": 898796,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4810.94,
+    "transactionFees": 81.79
+  },
+  {
+    "orderId": 396725,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4737.22,
+    "transactionFees": 80.53
+  },
+  {
+    "orderId": 153960,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5648.05,
+    "transactionFees": 96.02
+  },
+  {
+    "orderId": 384010,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7438.48,
+    "transactionFees": 126.45
+  },
+  {
+    "orderId": 419757,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7982.96,
+    "transactionFees": 135.71
+  },
+  {
+    "orderId": 821788,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8846.21,
+    "transactionFees": 150.39
+  },
+  {
+    "orderId": 161812,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8209.7,
+    "transactionFees": 139.56
+  },
+  {
+    "orderId": 690384,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3839.31,
+    "transactionFees": 65.27
+  },
+  {
+    "orderId": 114119,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4227.98,
+    "transactionFees": 71.88
+  },
+  {
+    "orderId": 545695,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9627.53,
+    "transactionFees": 163.67
+  },
+  {
+    "orderId": 132755,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6877.4,
+    "transactionFees": 116.92
+  },
+  {
+    "orderId": 317747,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5268.66,
+    "transactionFees": 89.57
+  },
+  {
+    "orderId": 741152,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1034.69,
+    "transactionFees": 17.59
+  },
+  {
+    "orderId": 130920,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3914.24,
+    "transactionFees": 66.54
+  },
+  {
+    "orderId": 746841,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3159.69,
+    "transactionFees": 53.71
+  },
+  {
+    "orderId": 704138,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7021.62,
+    "transactionFees": 119.37
+  },
+  {
+    "orderId": 294843,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7991.5,
+    "transactionFees": 135.86
+  },
+  {
+    "orderId": 772973,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6949.02,
+    "transactionFees": 118.13
+  },
+  {
+    "orderId": 408544,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4490.98,
+    "transactionFees": 76.35
+  },
+  {
+    "orderId": 946688,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2522.32,
+    "transactionFees": 42.88
+  },
+  {
+    "orderId": 380743,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2004.1,
+    "transactionFees": 34.07
+  },
+  {
+    "orderId": 487542,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8661.44,
+    "transactionFees": 147.24
+  },
+  {
+    "orderId": 866479,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4173.08,
+    "transactionFees": 70.94
+  },
+  {
+    "orderId": 129460,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5798.71,
+    "transactionFees": 98.58
+  },
+  {
+    "orderId": 673260,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9810.05,
+    "transactionFees": 166.77
+  },
+  {
+    "orderId": 158880,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4030.55,
+    "transactionFees": 68.52
+  },
+  {
+    "orderId": 307974,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6817.7,
+    "transactionFees": 115.9
+  },
+  {
+    "orderId": 962909,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9432.16,
+    "transactionFees": 160.35
+  },
+  {
+    "orderId": 276356,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6120.96,
+    "transactionFees": 104.06
+  },
+  {
+    "orderId": 715348,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2505.66,
+    "transactionFees": 42.6
+  },
+  {
+    "orderId": 134093,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3283.33,
+    "transactionFees": 55.82
+  },
+  {
+    "orderId": 713193,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2704.04,
+    "transactionFees": 45.97
+  },
+  {
+    "orderId": 220725,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7361.71,
+    "transactionFees": 125.15
+  },
+  {
+    "orderId": 809041,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7123.55,
+    "transactionFees": 121.1
+  },
+  {
+    "orderId": 883882,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3170.16,
+    "transactionFees": 53.89
+  },
+  {
+    "orderId": 267795,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6617.55,
+    "transactionFees": 112.5
+  },
+  {
+    "orderId": 118485,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9221.93,
+    "transactionFees": 156.77
+  },
+  {
+    "orderId": 863408,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7504.03,
+    "transactionFees": 127.57
+  },
+  {
+    "orderId": 993658,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4506.53,
+    "transactionFees": 76.61
+  },
+  {
+    "orderId": 495591,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4587.11,
+    "transactionFees": 77.98
+  },
+  {
+    "orderId": 266274,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1975.28,
+    "transactionFees": 33.58
+  },
+  {
+    "orderId": 214728,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9143.63,
+    "transactionFees": 155.44
+  },
+  {
+    "orderId": 701722,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6416.39,
+    "transactionFees": 109.08
+  },
+  {
+    "orderId": 292475,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5618.58,
+    "transactionFees": 95.52
+  },
+  {
+    "orderId": 930743,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8251,
+    "transactionFees": 140.27
+  },
+  {
+    "orderId": 782667,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7331.15,
+    "transactionFees": 124.63
+  },
+  {
+    "orderId": 355983,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7966,
+    "transactionFees": 135.42
+  },
+  {
+    "orderId": 132912,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6816.48,
+    "transactionFees": 115.88
+  },
+  {
+    "orderId": 959893,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6429.68,
+    "transactionFees": 109.3
+  },
+  {
+    "orderId": 220633,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4998.47,
+    "transactionFees": 84.97
+  },
+  {
+    "orderId": 614157,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4022.25,
+    "transactionFees": 68.38
+  },
+  {
+    "orderId": 699758,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4061.16,
+    "transactionFees": 69.04
+  },
+  {
+    "orderId": 284377,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8091.81,
+    "transactionFees": 137.56
+  },
+  {
+    "orderId": 226065,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2198.95,
+    "transactionFees": 37.38
+  },
+  {
+    "orderId": 766959,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4215.79,
+    "transactionFees": 71.67
+  },
+  {
+    "orderId": 416987,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1656.08,
+    "transactionFees": 28.15
+  },
+  {
+    "orderId": 819868,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3707.75,
+    "transactionFees": 63.03
+  },
+  {
+    "orderId": 175454,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5675.31,
+    "transactionFees": 96.48
+  },
+  {
+    "orderId": 706167,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7401.34,
+    "transactionFees": 125.82
+  },
+  {
+    "orderId": 132979,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6240.42,
+    "transactionFees": 106.09
+  },
+  {
+    "orderId": 719539,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7738.4,
+    "transactionFees": 131.55
+  },
+  {
+    "orderId": 446944,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1942.63,
+    "transactionFees": 33.02
+  },
+  {
+    "orderId": 269806,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3103.13,
+    "transactionFees": 52.75
+  },
+  {
+    "orderId": 406107,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2433.87,
+    "transactionFees": 41.38
+  },
+  {
+    "orderId": 207202,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4505.54,
+    "transactionFees": 76.59
+  },
+  {
+    "orderId": 177168,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8591.13,
+    "transactionFees": 146.05
+  },
+  {
+    "orderId": 809997,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9313.11,
+    "transactionFees": 158.32
+  },
+  {
+    "orderId": 668539,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1543.14,
+    "transactionFees": 26.23
+  },
+  {
+    "orderId": 502889,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7263.34,
+    "transactionFees": 123.48
+  },
+  {
+    "orderId": 510089,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8574.2,
+    "transactionFees": 145.76
+  },
+  {
+    "orderId": 831425,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4799.29,
+    "transactionFees": 81.59
+  },
+  {
+    "orderId": 927609,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8106.32,
+    "transactionFees": 137.81
+  },
+  {
+    "orderId": 476454,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7677.21,
+    "transactionFees": 130.51
+  },
+  {
+    "orderId": 196569,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8747.44,
+    "transactionFees": 148.71
+  },
+  {
+    "orderId": 593082,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4055.22,
+    "transactionFees": 68.94
+  },
+  {
+    "orderId": 134671,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5048.76,
+    "transactionFees": 85.83
+  },
+  {
+    "orderId": 275600,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8143.87,
+    "transactionFees": 138.45
+  },
+  {
+    "orderId": 834472,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7270.45,
+    "transactionFees": 123.6
+  },
+  {
+    "orderId": 523933,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7427.06,
+    "transactionFees": 126.26
+  },
+  {
+    "orderId": 295292,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5752.04,
+    "transactionFees": 97.78
+  },
+  {
+    "orderId": 745462,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2787.14,
+    "transactionFees": 47.38
+  },
+  {
+    "orderId": 327383,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1562.56,
+    "transactionFees": 26.56
+  },
+  {
+    "orderId": 716690,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6839.28,
+    "transactionFees": 116.27
+  },
+  {
+    "orderId": 346130,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6759.44,
+    "transactionFees": 114.91
+  },
+  {
+    "orderId": 470040,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1410.99,
+    "transactionFees": 23.99
+  },
+  {
+    "orderId": 927550,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3959.23,
+    "transactionFees": 67.31
+  },
+  {
+    "orderId": 318913,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6789.52,
+    "transactionFees": 115.42
+  },
+  {
+    "orderId": 890360,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5547.81,
+    "transactionFees": 94.31
+  },
+  {
+    "orderId": 742654,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5545.46,
+    "transactionFees": 94.27
+  },
+  {
+    "orderId": 250552,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9632.06,
+    "transactionFees": 163.75
+  },
+  {
+    "orderId": 981995,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5146.73,
+    "transactionFees": 87.49
+  },
+  {
+    "orderId": 922705,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5997.98,
+    "transactionFees": 101.97
+  },
+  {
+    "orderId": 819208,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8854.2,
+    "transactionFees": 150.52
+  },
+  {
+    "orderId": 657415,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2679.81,
+    "transactionFees": 45.56
+  },
+  {
+    "orderId": 594740,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8366.01,
+    "transactionFees": 142.22
+  },
+  {
+    "orderId": 800000,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1555.26,
+    "transactionFees": 26.44
+  },
+  {
+    "orderId": 789301,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6787.39,
+    "transactionFees": 115.39
+  },
+  {
+    "orderId": 326703,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8353.13,
+    "transactionFees": 142
+  },
+  {
+    "orderId": 827414,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5780.28,
+    "transactionFees": 98.26
+  },
+  {
+    "orderId": 154664,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5316.95,
+    "transactionFees": 90.39
+  },
+  {
+    "orderId": 441949,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2854.21,
+    "transactionFees": 48.52
+  },
+  {
+    "orderId": 440301,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4855.11,
+    "transactionFees": 82.54
+  },
+  {
+    "orderId": 655807,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9720.17,
+    "transactionFees": 165.24
+  },
+  {
+    "orderId": 369416,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2570.02,
+    "transactionFees": 43.69
+  },
+  {
+    "orderId": 362853,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8115.26,
+    "transactionFees": 137.96
+  },
+  {
+    "orderId": 738396,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3557.14,
+    "transactionFees": 60.47
+  },
+  {
+    "orderId": 268975,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7187.01,
+    "transactionFees": 122.18
+  },
+  {
+    "orderId": 540461,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4873.72,
+    "transactionFees": 82.85
+  },
+  {
+    "orderId": 109973,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9428.5,
+    "transactionFees": 160.28
+  },
+  {
+    "orderId": 122542,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9880.31,
+    "transactionFees": 167.97
+  },
+  {
+    "orderId": 649640,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1351.18,
+    "transactionFees": 22.97
+  },
+  {
+    "orderId": 413258,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3033.06,
+    "transactionFees": 51.56
+  },
+  {
+    "orderId": 265299,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1242.79,
+    "transactionFees": 21.13
+  },
+  {
+    "orderId": 830907,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2369.03,
+    "transactionFees": 40.27
+  },
+  {
+    "orderId": 492135,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1022.03,
+    "transactionFees": 17.37
+  },
+  {
+    "orderId": 806167,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9494.58,
+    "transactionFees": 161.41
+  },
+  {
+    "orderId": 739959,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7488.11,
+    "transactionFees": 127.3
+  },
+  {
+    "orderId": 699082,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2922.88,
+    "transactionFees": 49.69
+  },
+  {
+    "orderId": 802101,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5252.3,
+    "transactionFees": 89.29
+  },
+  {
+    "orderId": 160496,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1888.41,
+    "transactionFees": 32.1
+  },
+  {
+    "orderId": 966919,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3440.98,
+    "transactionFees": 58.5
+  },
+  {
+    "orderId": 170713,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3852.44,
+    "transactionFees": 65.49
+  },
+  {
+    "orderId": 470436,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1655.18,
+    "transactionFees": 28.14
+  },
+  {
+    "orderId": 714341,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3528.9,
+    "transactionFees": 59.99
+  },
+  {
+    "orderId": 357847,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3441.8,
+    "transactionFees": 58.51
+  },
+  {
+    "orderId": 910338,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9972.43,
+    "transactionFees": 169.53
+  },
+  {
+    "orderId": 262019,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4168.79,
+    "transactionFees": 70.87
+  },
+  {
+    "orderId": 221236,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3042.05,
+    "transactionFees": 51.71
+  },
+  {
+    "orderId": 833233,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8763.78,
+    "transactionFees": 148.98
+  },
+  {
+    "orderId": 954239,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2697.02,
+    "transactionFees": 45.85
+  },
+  {
+    "orderId": 637469,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8951.83,
+    "transactionFees": 152.18
+  },
+  {
+    "orderId": 715007,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2613.73,
+    "transactionFees": 44.43
+  },
+  {
+    "orderId": 762249,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9160.46,
+    "transactionFees": 155.73
+  },
+  {
+    "orderId": 825550,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9215.7,
+    "transactionFees": 156.67
+  },
+  {
+    "orderId": 493579,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6546.72,
+    "transactionFees": 111.29
+  },
+  {
+    "orderId": 824603,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2038.26,
+    "transactionFees": 34.65
+  },
+  {
+    "orderId": 170175,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6460.32,
+    "transactionFees": 109.83
+  },
+  {
+    "orderId": 876353,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1520.03,
+    "transactionFees": 25.84
+  },
+  {
+    "orderId": 403250,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2997.28,
+    "transactionFees": 50.95
+  },
+  {
+    "orderId": 574941,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6221.42,
+    "transactionFees": 105.76
+  },
+  {
+    "orderId": 137698,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3426.41,
+    "transactionFees": 58.25
+  },
+  {
+    "orderId": 375175,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8700.32,
+    "transactionFees": 147.91
+  },
+  {
+    "orderId": 851905,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2889.41,
+    "transactionFees": 49.12
+  },
+  {
+    "orderId": 355390,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3116.86,
+    "transactionFees": 52.99
+  },
+  {
+    "orderId": 852538,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8969.45,
+    "transactionFees": 152.48
+  },
+  {
+    "orderId": 959748,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9181.37,
+    "transactionFees": 156.08
+  },
+  {
+    "orderId": 644846,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7404.38,
+    "transactionFees": 125.87
+  },
+  {
+    "orderId": 106760,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6071.62,
+    "transactionFees": 103.22
+  },
+  {
+    "orderId": 657174,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7602.04,
+    "transactionFees": 129.23
+  },
+  {
+    "orderId": 279095,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9606.24,
+    "transactionFees": 163.31
+  },
+  {
+    "orderId": 101901,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2810.16,
+    "transactionFees": 47.77
+  },
+  {
+    "orderId": 371904,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2435.63,
+    "transactionFees": 41.41
+  },
+  {
+    "orderId": 719625,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7173.08,
+    "transactionFees": 121.94
+  },
+  {
+    "orderId": 985111,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1965.9,
+    "transactionFees": 33.42
+  },
+  {
+    "orderId": 913127,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2552.1,
+    "transactionFees": 43.39
+  },
+  {
+    "orderId": 708616,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1676.26,
+    "transactionFees": 28.5
+  },
+  {
+    "orderId": 915109,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3730.07,
+    "transactionFees": 63.41
+  },
+  {
+    "orderId": 347224,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2528.19,
+    "transactionFees": 42.98
+  },
+  {
+    "orderId": 309848,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3304.26,
+    "transactionFees": 56.17
+  },
+  {
+    "orderId": 290383,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1660.36,
+    "transactionFees": 28.23
+  },
+  {
+    "orderId": 170810,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7520.48,
+    "transactionFees": 127.85
+  },
+  {
+    "orderId": 516200,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7994,
+    "transactionFees": 135.9
+  },
+  {
+    "orderId": 471042,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7583.29,
+    "transactionFees": 128.92
+  },
+  {
+    "orderId": 478934,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5776.1,
+    "transactionFees": 98.19
+  },
+  {
+    "orderId": 440948,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1665.66,
+    "transactionFees": 28.32
+  },
+  {
+    "orderId": 612252,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3607.03,
+    "transactionFees": 61.32
+  },
+  {
+    "orderId": 263562,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2966.36,
+    "transactionFees": 50.43
+  },
+  {
+    "orderId": 319567,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9551.87,
+    "transactionFees": 162.38
+  },
+  {
+    "orderId": 817042,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9718.89,
+    "transactionFees": 165.22
+  },
+  {
+    "orderId": 709287,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9828.83,
+    "transactionFees": 167.09
+  },
+  {
+    "orderId": 780643,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3799.44,
+    "transactionFees": 64.59
+  },
+  {
+    "orderId": 772563,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3882.5,
+    "transactionFees": 66
+  },
+  {
+    "orderId": 275847,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2812.19,
+    "transactionFees": 47.81
+  },
+  {
+    "orderId": 901326,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3627.67,
+    "transactionFees": 61.67
+  },
+  {
+    "orderId": 926720,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8077.34,
+    "transactionFees": 137.31
+  },
+  {
+    "orderId": 254942,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6752.24,
+    "transactionFees": 114.79
+  },
+  {
+    "orderId": 982250,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7258.02,
+    "transactionFees": 123.39
+  },
+  {
+    "orderId": 264405,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1503.81,
+    "transactionFees": 25.56
+  },
+  {
+    "orderId": 619041,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6727.86,
+    "transactionFees": 114.37
+  },
+  {
+    "orderId": 703618,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1764.62,
+    "transactionFees": 30
+  },
+  {
+    "orderId": 552381,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7662.11,
+    "transactionFees": 130.26
+  },
+  {
+    "orderId": 979251,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1542.72,
+    "transactionFees": 26.23
+  },
+  {
+    "orderId": 883200,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2696.62,
+    "transactionFees": 45.84
+  },
+  {
+    "orderId": 941503,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2477.08,
+    "transactionFees": 42.11
+  },
+  {
+    "orderId": 677096,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2466.37,
+    "transactionFees": 41.93
+  },
+  {
+    "orderId": 176378,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5699.51,
+    "transactionFees": 96.89
+  },
+  {
+    "orderId": 181576,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8836.6,
+    "transactionFees": 150.22
+  },
+  {
+    "orderId": 217676,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2566.71,
+    "transactionFees": 43.63
+  },
+  {
+    "orderId": 713585,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 3995.47,
+    "transactionFees": 67.92
+  },
+  {
+    "orderId": 679525,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 1373.52,
+    "transactionFees": 23.35
+  },
+  {
+    "orderId": 235564,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8738.68,
+    "transactionFees": 148.56
+  },
+  {
+    "orderId": 128759,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 8243.35,
+    "transactionFees": 140.14
+  },
+  {
+    "orderId": 824373,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4719.77,
+    "transactionFees": 80.24
+  },
+  {
+    "orderId": 698172,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2924.01,
+    "transactionFees": 49.71
+  },
+  {
+    "orderId": 166080,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9458.82,
+    "transactionFees": 160.8
+  },
+  {
+    "orderId": 700192,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 5068.08,
+    "transactionFees": 86.16
+  },
+  {
+    "orderId": 443594,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2693.69,
+    "transactionFees": 45.79
+  },
+  {
+    "orderId": 942303,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 4012.15,
+    "transactionFees": 68.21
+  },
+  {
+    "orderId": 785565,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 2495.65,
+    "transactionFees": 42.43
+  },
+  {
+    "orderId": 239077,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6712.5,
+    "transactionFees": 114.11
+  },
+  {
+    "orderId": 470550,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 6937.96,
+    "transactionFees": 117.95
+  },
+  {
+    "orderId": 980878,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 7309.89,
+    "transactionFees": 124.27
+  },
+  {
+    "orderId": 435925,
+    "orderDate": "July 7, 2023",
+    "orderAmount": 9546.05,
+    "transactionFees": 162.28
+  }
+]
